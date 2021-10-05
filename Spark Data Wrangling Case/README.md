@@ -4,11 +4,11 @@ The goal of these code is to implement a set of Spark program in python(using Ap
 
 ## About the data
 
-A data set consisting of New York City Taxi trip reports in the Year 2013
+- A data set consisting of New York City Taxi trip reports in the Year 2013
 https://chriswhong.com/open-data/foil_nyc_taxi/
-In this project, I would use a small dataset to show easy operations of RDD.
-Dataset is attached in the folder: taxi-data-sorted-small.csv.bz2
-Also, I attach a attributes information: Taxi_Data_Set_Field.csv
+- In this project, I would use a small dataset to show easy operations of RDD.
+- Dataset is attached in the folder: taxi-data-sorted-small.csv.bz2
+- Also, I attach a attributes information: Taxi_Data_Set_Field.csv
 
 ## Describe here your project
 
