@@ -12,7 +12,7 @@ spark = SparkSession(sc)
 
 wikiPagesFile = sys.argv[1]
 wikiCategoryFile = sys.argv[2]
-
+# These datasets are ran in your laptop
 # wikiPagesFile="./data/WikipediaPagesOneDocPerLine1000LinesSmall.txt.bz2"
 # wikiCategoryFile="./data/wiki-categorylinks-small.csv.bz2"
 
