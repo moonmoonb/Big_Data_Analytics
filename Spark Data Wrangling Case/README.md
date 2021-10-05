@@ -22,6 +22,8 @@ https://chriswhong.com/open-data/foil_nyc_taxi/
 
 Run the task 1 by submitting the task to spark-submit. 
 
+main_num_.py codes are ran in google cloud platform
+
 
 ```python
 
