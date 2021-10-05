@@ -1,26 +1,21 @@
-# pyspark-template
+# pyspark
 
-This is a pyspark project template
+The goal of these code is to implement a set of Spark program in python(using Apache Spark).
 
+## About the data
+
+A data set consisting of New York City Taxi trip reports in the Year 2013
+https://chriswhong.com/open-data/foil_nyc_taxi/
+In this project, I would use a small dataset to show easy operations of RDD.
+Dataset is attached in the folder: taxi-data-sorted-small.csv.bz2
+Also, I attach a attributes information: Taxi_Data_Set_Field.csv
 
 ## Describe here your project
 
-
-This is a very simple HelloWorld example in pyspark. 
-
-
-# Submit your python scripts .py 
-
-If your assignment has 3 tasks you need to commit the 3 scripts only and overwrite them. You can then delete the script number 4 ( main_task4.py 
-)
-
-If your assignment has 4 tasks then you can use all of them. 
-
-# Other Documents. 
-
-You can write your task description in this Markdown file or You can generate PDF file and added to the doc/ folder of your repository. 
-
-Please note in your README.md file where your task description file is.  
+1. Firstly, I would make data processing. 
+2. The first job is to find the top-10 active taxis
+3. Finally, I would like to figure out who the top 10 best drivers are in terms of their average earned money per minute spent carrying a customer.
+ 
 
 
 # How to run  
