@@ -1,0 +1,21 @@
+Task 4 - Removing Stop Words, do Stemming and redo the task 2 (2 points)
+
+
+
+Task 4.1 - Remove Stop Words (1 point) Describe if removing the English Stop words (most common words like ”a, the, is, are, i, you, ...”) would change the final kNN results here.
+Would your result be changed heavily after removing the stop words? Why? Provide reasons.
+
+Yes. I think the result would be changed heavily after removing the stop words. 
+Since these words take majority part of pages, if they are removed, other words’ proportion would change quite different, which causes different KNN results.
+
+
+
+
+Task 4.2 - Do English word stemming (1 point)
+We can stem the words [”game”,”gaming”,”gamed”,”games”] to their root word ”game”. Read more about stemming here https://en.wikipedia.org/wiki/Stemming
+Would stemming change your result heavily? Why? Provide reasons and describe it.
+
+Based on the Wikipedia, the algorithm is Suffix-stripping algorithm. 
+I think the result would change heavily after implementing this stemming algorithm. Since some frequent words, like game, 
+might scatter among the list. If we combine its inflected forms all together, we might get the much bigger list than each before. 
+Also, we clean many fragmentary words. Therefore, the KNN results change heavily as well.
