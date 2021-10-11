@@ -27,7 +27,7 @@ use the model to predict whether or not each of the testing points correspond to
 compute the f1-score by classifier
 
 
-# Submit your python scripts .py 
+# Submit python scripts .py 
 
 Note: 
 1. In main_task2.py, gradient descent algorithm is implemented by adding regularization penalty. Gradient descent algorithm without regularization is commented.
