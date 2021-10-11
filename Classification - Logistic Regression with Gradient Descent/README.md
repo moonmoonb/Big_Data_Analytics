@@ -1,3 +1,7 @@
+## About the dataset
+Small Training Data Set (37.5 MB of text):  gs://metcs777/SmallTrainingData.txt
+Large Training Data Set (1.9 GB of text):  gs://metcs777/TrainingData.txt
+Test Data Set (200 MB of text):  gs://metcs777/TestingData.txt
 
 ## Describe the project
 
