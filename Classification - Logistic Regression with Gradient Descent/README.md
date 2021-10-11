@@ -1,4 +1,5 @@
 ## About the dataset
+- I am dealing with a data set that consists of around 170,000 text documents (this is 7.6 million lines of text in all), and a test/evaluation data set that consists of 18,700 text documents (almost exactly one million lines of text in all). All but around 6,000 of these text documents are Wikipedia pages; the remaining documents are descriptions of Australian court cases and rulings.
 - Small Training Data Set (37.5 MB of text):  gs://metcs777/SmallTrainingData.txt
 - Large Training Data Set (1.9 GB of text):  gs://metcs777/TrainingData.txt
 - Test Data Set (200 MB of text):  gs://metcs777/TestingData.txt
