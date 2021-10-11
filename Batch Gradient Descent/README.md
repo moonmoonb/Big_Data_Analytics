@@ -26,7 +26,7 @@ https://chriswhong.com/open-data/foil_nyc_taxi/
 - Another small testing dataset address link: https://metcs777.s3.amazonaws.com/taxi-data-sorted-small.csv.bz2
 
 
-# Submit your python scripts .py 
+# Submit python scripts .py 
 
 Note: In main_task3.py, Bold-driver code is commented in the last part.
 
