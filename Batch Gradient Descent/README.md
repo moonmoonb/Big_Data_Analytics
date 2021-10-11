@@ -17,6 +17,14 @@ the NYC bridges or rides to the airport.
 
 Bold driver method implementation.
 
+## About the data
+
+- A data set consisting of New York City Taxi trip reports in the Year 2013
+https://chriswhong.com/open-data/foil_nyc_taxi/
+- In this project, I would use a small dataset to show easy operations of RDD.
+- Dataset address: gs://metcs777/taxi-data-sorted-small.csv.bz2
+- Another small testing dataset address link: https://metcs777.s3.amazonaws.com/taxi-data-sorted-small.csv.bz2
+
 
 # Submit your python scripts .py 
 
