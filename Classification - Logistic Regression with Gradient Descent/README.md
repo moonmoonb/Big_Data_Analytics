@@ -1,14 +1,19 @@
 
-## Describe here your project
+## Describe the project
 
+In the small dataset, you’ll see that the contents are sort of a pseudo-XML, where each text document begins with a < doc id = ::: >
+tag, and ends with < =doc >.
+Note that all of the Australia legal cases begin with something like < doc id = “AU1222” ... > that is, the doc id for an Australian legal case always starts with AU. I will be trying to figure out if the document is an Australian legal case by looking only at the contents of the document.
 
 4.1 Task 1 : Data Preparation(TF)
 
-show the frequency position of the words “applicant”, “and”, “attack”, “protein”, and “car”
+- write Spark code that builds a dictionary that includes the 20,000 most frequent words in the training
+corpus. 
+- show the frequency position of the words “applicant”, “and”, “attack”, “protein”, and “car”
 
 4.2 Task 2 - Learning the Model
 
-the five words with the largest regression coefficients.
+find out the five words with the largest regression coefficients in my training model.
 
 4.3 Task 3 - Task 3 - Evaluation of the learned Model 
 
