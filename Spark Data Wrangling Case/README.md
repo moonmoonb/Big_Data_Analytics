@@ -8,7 +8,6 @@ The goal of these code is to implement a set of Spark program in python(using Ap
 https://chriswhong.com/open-data/foil_nyc_taxi/
 - In this project, I would use a small dataset to show easy operations of RDD.
 - Dataset address: gs://metcs777/taxi-data-sorted-small.csv.bz2
-- Also, I attach a attributes information: Taxi_Data_Set_Field.csv
 
 ## Describe here your project
 
