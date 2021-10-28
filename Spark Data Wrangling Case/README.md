@@ -9,7 +9,7 @@ https://chriswhong.com/open-data/foil_nyc_taxi/
 - In this project, I would use a small dataset to show easy operations of RDD.
 - Dataset address: gs://metcs777/taxi-data-sorted-small.csv.bz2
 
-## Describe here your project
+## Project Description
 
 1. Firstly, I would make data processing. 
 2. The first job is to find the top-10 active taxis
