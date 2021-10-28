@@ -3,7 +3,7 @@
 The goal of these code is to implement a k-nearest neighbors classifier (kNN classifier) in multiple
 steps. KNN is an algorithm that can find the top-k nearest objects to a specific query object.
 
-## Describe here your project
+## Project Description
 
 - In this assignment we want to use kNN to classify text documents. Given a specific search text
 like ”How many goals Vancouver score last year?” the algorithm can search in the document corpus
