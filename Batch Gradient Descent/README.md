@@ -17,7 +17,7 @@ the NYC bridges or rides to the airport.
 
 Bold driver method implementation.
 
-## About the data
+## About the Data
 
 - A data set consisting of New York City Taxi trip reports in the Year 2013
 https://chriswhong.com/open-data/foil_nyc_taxi/
